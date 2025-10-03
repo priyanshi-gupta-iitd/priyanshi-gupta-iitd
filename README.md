@@ -1,5 +1,5 @@
  👋 Hi, I’m Priyanshi Gupta
- 🌱 I’m currently a CSE sophomore at IIT Delhi
+ 🌱 I’m currently a CSE Junior at IIT Delhi
 
  Currently working with
  
